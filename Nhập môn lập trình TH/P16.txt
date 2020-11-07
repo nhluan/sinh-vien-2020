@@ -1,0 +1,9 @@
+Step 1: Nhập biển số xe gồm 5 chữ số
+Step 2: Lấy 5 chữ số chia 10 lấy phần nguyên (A) và phần dư (1)
+Step 3: Lấy A chữ số chia 10 lấy phần nguyên (B) và phần dư (2) 
+Step 4: Lấy B chữ số chia 10 lấy phần nguyên (C) và phần dư (3)
+Step 5: Lấy C chữ số chia 10 lấy phần nguyên (D) và phần dư (4)
+Step 6: Lấy D chữ số chia 10 lấy phần dư (5)
+Step 7: Cộng (1), (2), (3), (4), (5) {S}
+Step 8: Lấy S chia 10 lấy phần dư 
+Step 9: In kết quả số nút

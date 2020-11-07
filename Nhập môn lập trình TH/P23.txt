@@ -1,0 +1,6 @@
+Step 1: Nhập chiều dài a của tam giác đều và bán kính R của hình tròn
+Step 2: Diện tích của 3 tam giác đều (S): S = ((a*a)*can(3)/4*3)
+Step 3: Diện tích hình tròn (P): P = 3.14*R
+Step 4: Diện tích 3 hình nón trong 6 hình nón của một hình tròn (A): A = (P/6)*3
+Step 5: Diện tích phần tô xám mà đề bài yêu cầu (B): B = S + A 
+Step 6: In ra màn hình diện tích phần tô xám (B)

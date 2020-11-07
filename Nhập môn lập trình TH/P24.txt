@@ -1,0 +1,4 @@
+Step 1: Nhập số phần trăm khuyến mãi được hoàn tiền (i) và số tiền tối đa được hoàn lại (a)
+Step 2: Tính số tiền 1% của số tiền tối đa được hoàn lại thuộc về 40% khuyến mãi ban đầu (x): x = a/i 
+Step 3: Tính số tiền cần mua hàng để đạt được số tiền hoàn lại tối đa (n): n = x*100
+Step 4: In ra kết quả n ( là số tiền cần mua hàng để được số tiền hoàn tối đa )

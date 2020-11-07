@@ -1,0 +1,11 @@
+Step 1: Nhập mệnh giá tiền cần đổi sang các mệnh giá tiền khác ( Tạm đặt là N )
+Step 2: Tính số tờ có mệnh giá 500000 (a): a= N/500000 và số tiền còn dư (b): b = N%500000
+Step 3: Tính số tờ có mệnh giá 200000 (c): c= c/200000 và số tiền còn dư (d): d= b%200000
+Step 4: Tính số tờ có mệnh giá 100000 (e): e= d/100000 và số tiền còn dư (g): g= d%100000
+Step 5: Tính số tờ có mệnh giá 50000 (h): h= g/50000 và số tiền còn dư (i): i= g%50000
+Step 6: Tính số tờ có mệnh giá 20000 (f): f= i/20000 và số tiền còn dư (j): j= i%20000
+Step 7: Tính số tờ có mệnh giá 10000 (l): l= j/10000 và số tiền còn dư (m): m= j%10000
+Step 8: Tính số tờ có mệnh giá 5000 (n): n= m/5000 và số tiền còn dư (o): o= m%5000
+Step 9: Tính số tờ có mệnh giá 2000 (p): p= o/2000 và số tiền còn dư (p): p= o%2000
+Step 10: Tính số tờ có mệnh giá 1000 (s): s= p/1000
+Step 11: In ra kết quả a, c, e, h, h, l, n, p, s 

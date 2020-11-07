@@ -1,0 +1,6 @@
+Step 1: Nhập km a, hour b, minute c, second d
+Step 2: Đổi thời gian thành minute (m): m = (b*60) + (d/60) + c
+Step 3: Đổi thời gian thành hour (h): h = (c/60) + (d/3600) + b 
+Step 4: Tính pace (S): S = m/a 
+Step 5: Tính speed (V): V = a/b
+Step 4: In ra màn hình kết quả S và V
